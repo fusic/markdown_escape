@@ -1,0 +1,4 @@
+example_id                          | status | run_time        |
+----------------------------------- | ------ | --------------- |
+./spec/markdown_escape_spec.rb[1:1] | passed | 0.0014 seconds  |
+./spec/markdown_escape_spec.rb[1:2] | passed | 0.00057 seconds |
